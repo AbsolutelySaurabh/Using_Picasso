@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements LoaderCallbacks<L
 
     //Here we need the URL to extract JSON news
     //Use AllCaps for a constant.
-    private static final String POPULAR_MOVIE_URL = "https://api.themoviedb.org/3/movie/popular?api_key=5b4b359c1e593af429152b47752d4247&language=en-US&page=1";
+    private static final String POPULAR_MOVIE_URL = "URL";
 
     //Adapter for the list of the movies
     private ImageAdapter imageAdapter;
